@@ -1,0 +1,6 @@
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityDTO\bin\Debug\ActivityDTO.dll
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityDTO\bin\Debug\ActivityDTO.pdb
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityDTO\obj\Debug\ActivityDTO.csproj.AssemblyReference.cache
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityDTO\obj\Debug\ActivityDTO.csproj.CoreCompileInputs.cache
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityDTO\obj\Debug\ActivityDTO.dll
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityDTO\obj\Debug\ActivityDTO.pdb

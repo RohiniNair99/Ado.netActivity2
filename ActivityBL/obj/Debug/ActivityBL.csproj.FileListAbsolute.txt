@@ -1,0 +1,11 @@
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\bin\Debug\ActivityBL.dll
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\bin\Debug\ActivityBL.pdb
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\bin\Debug\ActivityDAL.dll
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\bin\Debug\ActivityDTO.dll
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\bin\Debug\ActivityDAL.pdb
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\bin\Debug\ActivityDTO.pdb
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\obj\Debug\ActivityBL.csproj.AssemblyReference.cache
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\obj\Debug\ActivityBL.csproj.CoreCompileInputs.cache
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\obj\Debug\ActivityBL.csproj.CopyComplete
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\obj\Debug\ActivityBL.dll
+D:\Rohini\C# ACTIVITIES\Ado.netActivity2\ActivityBL\obj\Debug\ActivityBL.pdb
